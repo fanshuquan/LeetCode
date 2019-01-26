@@ -1,0 +1,1 @@
+print(isinstance([1,2,34],list))

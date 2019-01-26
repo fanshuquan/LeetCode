@@ -1,0 +1,1 @@
+print(hasattr(list, 'append'))
